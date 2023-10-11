@@ -1,0 +1,3 @@
+ convert an int to a corresponding 
+ string and the numbers aren't necessarily packed.
+  Some code in Qt as well might be useful?

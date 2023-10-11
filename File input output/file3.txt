@@ -1,0 +1,2 @@
+Be Happy.
+convert an int to  a decimal
